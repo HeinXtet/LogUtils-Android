@@ -1,3 +1,3 @@
 # LogUtils-Android
 
-This is log library for android ( testing for android library)
+This is log library for android (Now that is test library)
